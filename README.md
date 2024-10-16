@@ -10,7 +10,7 @@
 
 - **OOPL**( Object-Oriented Programming Laboratory )
   - **Course Code** : `PCCO203`
-  - `Assignment` : [ [Click Here](/OOP-PRATICAL) ]
+  - `Assignment` : [ [Click Here](/OOPS-PRATICAL) ]
 - **DSPS**( Data Structures and Problem Solving )
   - **Course Code** : `xyz`
   - `Assignment` : [ [Click Here](/DSPS-PRATICAL) ]
